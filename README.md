@@ -29,7 +29,7 @@ Originally from Estonia, I've been calling Finland home for over a decade now. M
 ## 📌 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,typescript,nodejs,express,mongodb,postgres,git,github" alt="Tech Stack"/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,react native,typescript,nodejs,express,mongodb,postgres,git,github" alt="Tech Stack"/>
 </p>
 
 ## 🎸 Beyond the Code
