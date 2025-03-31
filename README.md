@@ -35,6 +35,3 @@ Originally from Estonia, I've been calling Finland home for over a decade now. M
 ## 🎸 Beyond the Code
 
 🎵 When I'm not deep into coding, you'll probably find me strumming my guitar or sewing my next creative piece. Because, hey, creativity isn't just for coding, right? 😄
-
----
-
