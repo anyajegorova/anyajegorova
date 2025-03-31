@@ -1,7 +1,7 @@
 # Hey there, I'm Anna Jegorova! 👋
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=annajegorova&show_icons=true&theme=radical" alt="Anna's GitHub stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=anyajegorova&show_icons=true&theme=radical" alt="Anna's GitHub stats"/>
 </p>
 
 ## 🌍 From Estonia to Finland, Coding My Way to Full-Stack Mastery
